@@ -1,7 +1,9 @@
 # Omega: Continuous Creation, a Primordial Resonance, and the Local Emergence of General Relativity
 
 **Patrick Guiffra** — Independent researcher
-OSF project: [osf.io/sjndw](https://osf.io/sjndw) — DOI [10.17605/OSF.IO/SJNDW](https://doi.org/10.17605/OSF.IO/SJNDW)
+
+Vidéo : https://drive.google.com/file/d/1dzh6h3mn1bewYyTyPCSBrY4Jb6-8DoQj/view?usp=sharing
+
 Version: October 2026
 
 ## Document
